@@ -1,6 +1,6 @@
 ---
 title: "Mon mini-site Framalibre"
-order: 1
+order: 2
 in_menu: true
 ---
 Coucou voici une liste de logiciel open source pour différents usage, et remplacer ceux que vous utilez habituellement. 
